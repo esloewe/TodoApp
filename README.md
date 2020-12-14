@@ -1,3 +1,3 @@
 # TodoApp
 
-GO to master branch
+Go to master branch
